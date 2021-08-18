@@ -43,7 +43,7 @@ The simple game of tic-tac-toe using react from a beginning react developer.
 
 Please do not contact
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://https://github.com/WendyLou11/Tic-Tac-Toe-Improved](https://github.com/your_username/repo_name)
 
 
 
